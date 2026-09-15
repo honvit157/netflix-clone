@@ -2,11 +2,10 @@ import { useState } from 'react'
 import Navbar from './ui/Navbar'
 import './App.css'
 
+
 function App() {
-  
-  return (
-      <Navbar/>
+  return(
+    <Navbar/>
   )
 }
-
 export default App
